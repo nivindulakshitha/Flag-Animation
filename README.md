@@ -18,4 +18,4 @@
 ---
 > [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/codingdesk20)
 ---
-> [![](https://visitcount.itsvg.in/api?id=project-1&label=Project%20Visits&icon=3&pretty=true)](https://visitcount.itsvg.in)
+> [![](https://visitcount.itsvg.in/api?id=project-1&label=Project%20Visits&icon=3&pretty=true)](https://github.com/coding-desk20/flag-animation)
