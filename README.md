@@ -8,7 +8,7 @@
 > | CSS       | 3       |
 ---
 > ### Demo
-> ![loading...](https://drive.google.com/uc?export=download&id=1O-423aL8z_FUKekNQGwEqhqUZSOQshGA)
+> ![loading...](https://github.com/coding-desk20/coding-desk20/blob/main/images/flag-animation.gif?raw=true)
 ---
 > ### Requirements: None
 ---
