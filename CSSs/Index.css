@@ -17,8 +17,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: left;
+    aspect-ratio: 16/9;
     width: 80%;
-    height: 80%;
+    height: auto;
     perspective: 1000;
     transform-style: preserve3d;
     transform-origin: 0px 250px;
@@ -32,7 +33,7 @@ body {
 
 img {
     width: -webkit-fill-available;
-    max-height: 100%;
+    min-height: 100%;
 }
 
 #flag-container .segment {
