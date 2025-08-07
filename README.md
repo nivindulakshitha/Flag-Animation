@@ -1,0 +1,1 @@
+<img src="https://media.licdn.com/dms/image/v2/D5622AQH5yHT1VF-mGA/feedshare-shrink_800/feedshare-shrink_800/0/1732528650108?e=1736380800&v=beta&t=Y5c4kn69qHhJgdpAi0cOxZZyBF_1Pkq2vKGXEikYpv4" width="100%">
